@@ -2,7 +2,7 @@
 
 ## About
 
-DashBoard is a Python open source project to open an application of your choice straight from your terminal.
+DashBoard is a Python open source project to open an application of your choice - straight from your terminal.
 
 ## Run
 
